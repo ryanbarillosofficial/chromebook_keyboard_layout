@@ -1,4 +1,4 @@
-# Chromebook Keyboard Layout
+# Chromebook Keyboard Module
 
 A Magisk/KernelSU module designed to provide Chromebook's keyboard layout and shortcuts into Android (i.e., Bliss OS), ranging from the following:
 
